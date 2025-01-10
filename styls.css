@@ -89,13 +89,13 @@ nav li a{
 
 }
  . secondary-bg{ 
-    color:#FFF8F3 ;
+    color:#FFF8F3;
  } 
  
 main{
   max-width:1140px ;
   margin: 0 auto;
-  padding: 130px 150px;
+  padding: 100px 120px;
   text-align: center;
   margin-top: 130px;
 }
@@ -105,4 +105,7 @@ main{
 .about-items{
    display: flex;
    justify-content:space-around ;
+}
+.text-center{
+     text-align: center;
 }
